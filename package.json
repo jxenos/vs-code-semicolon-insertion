@@ -3,20 +3,20 @@
     "displayName": "Semicolon Insertion Shortcut",
     "description": "Adds a shortcut to insert semicolon at the end of the line",
     "icon": "images/icon.png",
-    "version": "0.0.6",
-    "publisher": "chrisvltn",
+    "version": "0.0.7",
+    "publisher": "Jorj Xenos",
     "engines": {
         "vscode": "^1.13.0"
     },
     "license": "LICENSE.md",
-    "homepage": "https://github.com/chrisvltn/vs-code-semicolon-insertion/blob/master/README.md",
+    "homepage": "https://github.com/jxenos/vs-code-semicolon-insertion/blob/master/README.md",
     "bugs": {
         "url": "https://github.com/chrisvltn/vs-code-semicolon-insertion/issues",
-        "email": "chris_valentin@outlook.com"
+        "email": "jorjxenos@gmail.com"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/chrisvltn/vs-code-semicolon-insertion.git"
+        "url": "https://github.com/jxenos/vs-code-semicolon-insertion/"
     },
     "categories": [
         "Other"
